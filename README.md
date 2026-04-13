@@ -22,6 +22,8 @@ I design and ship end-to-end **ERPNext / Frappe** implementations for manufactur
 - 🇸🇦 **ZATCA / KSA compliance** — e-invoicing, Arabic RTL UX, bilingual reporting
 - 🔌 **Integrations** — REST/webhook, Odoo bridges, payment gateways, LMS, document AI
 
+**Currently working with:** Optiflow · Elixeum · Veela Beau · Lipton Egypt
+
 ---
 
 ### 🚀 Flagship projects
@@ -67,6 +69,5 @@ I design and ship end-to-end **ERPNext / Frappe** implementations for manufactur
 
 - 💼 **LinkedIn** — [eslam-elgogary](https://www.linkedin.com/in/eslam-elgogary/)
 - 📧 **Email** — eng.elgogary@gmail.com
-- 🏢 **Company** — [Elixeum](https://github.com/elgogary)
 
 <sub>Open to: ERPNext implementations, agentic workflows, and digital-transformation projects across the GCC.</sub>
